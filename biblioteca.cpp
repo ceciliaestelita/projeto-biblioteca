@@ -80,7 +80,7 @@ public:
 };
 
 int main() {
-    Biblioteca biblioteca("Biblioteca Central", "Rua Principal, 123");
+    Biblioteca biblioteca("Biblioteca Central", "Rua da UFPE, 123");
     int opcao;
 
     do {
